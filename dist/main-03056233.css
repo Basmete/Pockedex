@@ -1,0 +1,17 @@
+@import url(/public/bootstrap.min.css);
+@import url(/public/bootstrap.min.css);
+.navbar{height:50px;padding:0 !important}.fixed{position:sticky;top:0;width:100%}
+
+.bg-red{background:red}.wrep{margin-top:20px}.wrep .card-image img{display:block;width:200px;height:200px;margin:0 auto}.card-header{font-weight:500;font-size:30px}.pokemon-card{width:500px;border:1px solid red}
+
+.pokemon-field .pockemons-deck{flex-wrap:wrap;justify-content:space-around}.pokemon-field .pockemons-deck .next_page_button{display:block;position:fixed;right:20px;top:50vh}.pokemon-field .pockemons-deck .next_page_button a{font-size:40px}
+
+.container-fluid{padding:0}.kekas{height:100vh;position:fixed}.jumbotron{position:sticky;top:0}
+
+.sideBar{height:100vh;border-radius:0;margin:0}.sideBar .sideBar-header{font-size:50px}@media (max-width: 320px){.sideBar{max-width:305px}}
+
+.pokemon-info-card{width:80%;height:50vh;margin:20px auto}.pokemon-info-card .card-body img{display:block;width:500px;height:500px;margin:0 auto}
+
+
+body{background-color:#fff}
+
